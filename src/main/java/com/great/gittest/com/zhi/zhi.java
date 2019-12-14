@@ -6,7 +6,7 @@ public class zhi
 	public void ff(){
 
 
-		System.out.println("oo");
+		System.out.println("o2222o");
 
 	}
 
