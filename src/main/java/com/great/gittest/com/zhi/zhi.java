@@ -5,6 +5,8 @@ public class zhi
 
 	public void ff(){
 
+
+		System.out.println("5");
 	}
 
 
